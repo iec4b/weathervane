@@ -4,5 +4,6 @@ A simple command line tool to retrieve information from the National Weather Ser
 ## Acknowledgements
 
 - [Python Command-Line Arguments] (https://realpython.com/python-command-line-arguments/#a-few-methods-for-parsing-python-command-line-arguments)
+    - This tutorial provided the code I used for accepting system arguments and options.
 - [BeautifulSoup] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
