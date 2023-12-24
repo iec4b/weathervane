@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import sys
 
 # Set up for system options and arguments. Currently the program is only set up to take options.
+# I copied this basic parser code and the if/elif statements structure from https://realpython.com/python-command-line-arguments/#a-few-methods-for-parsing-python-command-line-arguments
 opts = [opt for opt in sys.argv[1:] if opt.startswith("-")]
 args = [arg for arg in sys.argv[1:] if not arg.startswith("-")]
 
