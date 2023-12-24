@@ -1,7 +1,9 @@
 # weathervane.py
 # This is the configuration file for the weathervane tool.
 
-# Set the URLs for extracting information from the national weather service.
+# Set the URLs for extracting information from the national weather service, and rename the variables as you see fit. Just be sure to update the weathervane.py file accordingly. You may have to do some digging/tweaking to make sure that weathervane will find the right text content if you change the sources from what you see below.
+
+# This version is tailored to the New York City area.
 
 # Weather Discussions
 
